@@ -17,7 +17,7 @@ def gen():
         return iter
         iter+=1
     
-print(gen())
+print(gen()) 
 print('------------')
 # Это генератор 
 def gen1():
@@ -33,3 +33,5 @@ print(next(generator))
 print(next(generator))
 print(next(generator))
 print(next(generator))
+
+# Генератор нужен тогда, когда нам надо возвращать объект, где хранятся значения
