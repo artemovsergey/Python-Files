@@ -23,5 +23,7 @@
 
 # Ignore changed places
 /test/
+/test_desctop/
+
 # All .rb files
-/*.rb
+
