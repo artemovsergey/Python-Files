@@ -22,8 +22,7 @@
 .idea
 
 # Ignore changed places
-/test/
-/test_desctop/
+./to_flask/
 
 # All .rb files
 

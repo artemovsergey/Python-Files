@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\artik\Desktop\test_desctop"
+set "VIRTUAL_ENV=C:\Users\artik\Desktop\PYTHON~1\to_flask"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
@@ -9,7 +9,7 @@ if defined _OLD_VIRTUAL_PROMPT (
     )
     set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
 )
-set "PROMPT=(test_desctop) %PROMPT%"
+set "PROMPT=(to_flask) %PROMPT%"
 
 REM Don't use () to avoid problems with them in %PATH%
 if defined _OLD_VIRTUAL_PYTHONHOME goto ENDIFVHOME
